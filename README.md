@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Mayursoni1518/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Mayursoni1518/Leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Mayursoni1518/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayursoni1518/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mayursoni1518/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Mayursoni1518/Leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Mayursoni1518/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayursoni1518/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -28,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mayursoni1518/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Mayursoni1518/Leetcode/tree/master/0016-3sum-closest) |
 ## Dynamic Programming
 |  |
 | ------- |
