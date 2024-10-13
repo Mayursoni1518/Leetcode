@@ -12,3 +12,5 @@ public:
        return j; 
     }
 };
+
+// It say's that you have to return the size of the compressed array with no duplicates , while you can see the vector is call by reference so it checks whether the array (nums) you have updated or not , while ignoring after the required spaces
