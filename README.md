@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Mayursoni1518/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Mayursoni1518/Leetcode/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayursoni1518/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Mayursoni1518/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [3221-find-the-peaks](https://github.com/Mayursoni1518/Leetcode/tree/master/3221-find-the-peaks) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mayursoni1518/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Mayursoni1518/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mayursoni1518/Leetcode/tree/master/0016-3sum-closest) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mayursoni1518/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Dynamic Programming
 |  |
