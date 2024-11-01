@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1660-thousand-separator](https://github.com/Mayursoni1518/Leetcode/tree/master/1660-thousand-separator) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2886-faulty-keyboard](https://github.com/Mayursoni1518/Leetcode/tree/master/2886-faulty-keyboard) |
