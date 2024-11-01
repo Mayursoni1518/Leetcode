@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Mayursoni1518/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mayursoni1518/Leetcode/tree/master/0217-contains-duplicate) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mayursoni1518/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Mayursoni1518/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/Mayursoni1518/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayursoni1518/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Mayursoni1518/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
 |  |
