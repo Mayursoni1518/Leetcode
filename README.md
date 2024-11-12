@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/Mayursoni1518/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayursoni1518/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2886-faulty-keyboard](https://github.com/Mayursoni1518/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Mayursoni1518/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Mayursoni1518/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2401-count-asterisks](https://github.com/Mayursoni1518/Leetcode/tree/master/2401-count-asterisks) |
 | [2580-circular-sentence](https://github.com/Mayursoni1518/Leetcode/tree/master/2580-circular-sentence) |
 | [2886-faulty-keyboard](https://github.com/Mayursoni1518/Leetcode/tree/master/2886-faulty-keyboard) |
