@@ -1,4 +1,4 @@
-# Leecode-Array-Mik-
+# Leetcode-Array-Mik-
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
 
 <!---LeetCode Topics Start-->
