@@ -1,24 +1,16 @@
 class Solution {
 public:
     string clearDigits(string s) {
-        stack<char> st;
-        for (int i = 0; i < s.size(); i++) {
-            if (s[i] >= 'a' && s[i] <= 'z') {
-                st.push(s[i]);
+        string result = "";  // Use a string to build the result directly
+        for (char c : s) {
+            if (c >= 'a' && c <= 'z') {
+                result.push_back(c);  // Add the character to the result
             } else {
-                if (!st.empty()) {
-                    st.pop();
+                if (!result.empty()) {
+                    result.pop_back();  // Remove the last character if not empty
                 }
             }
         }
-        string result ;
-
-        while(!st.empty()){
-            result += st.top() ;
-            st.pop() ;
-        }
-
-        reverse(result.begin() , result.end()) ;
-        return result ;
+        return result;
     }
 };
