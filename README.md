@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mayursoni1518/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [3447-clear-digits](https://github.com/Mayursoni1518/Leetcode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayursoni1518/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2886-faulty-keyboard](https://github.com/Mayursoni1518/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+| [3447-clear-digits](https://github.com/Mayursoni1518/Leetcode/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Mayursoni1518/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Greedy
 |  |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/Mayursoni1518/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Mayursoni1518/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3447-clear-digits](https://github.com/Mayursoni1518/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Mayursoni1518/Leetcode/tree/master/3451-string-compression-iii) |
 ## Queue
 |  |
