@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0268-missing-number) |
 | [1448-maximum-69-number](https://github.com/Mayursoni1518/Leetcode/tree/master/1448-maximum-69-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/Mayursoni1518/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2037-count-square-sum-triples](https://github.com/Mayursoni1518/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Mayursoni1518/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/Mayursoni1518/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mayursoni1518/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [2037-count-square-sum-triples](https://github.com/Mayursoni1518/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Mayursoni1518/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3221-find-the-peaks](https://github.com/Mayursoni1518/Leetcode/tree/master/3221-find-the-peaks) |
 ## Number Theory
