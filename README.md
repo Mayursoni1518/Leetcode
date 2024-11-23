@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Mayursoni1518/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mayursoni1518/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mayursoni1518/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mayursoni1518/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mayursoni1518/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mayursoni1518/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mayursoni1518/Leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Mayursoni1518/Leetcode/tree/master/0561-array-partition) |
 | [1448-maximum-69-number](https://github.com/Mayursoni1518/Leetcode/tree/master/1448-maximum-69-number) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
