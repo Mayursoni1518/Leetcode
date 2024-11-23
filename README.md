@@ -261,9 +261,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Mayursoni1518/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/Mayursoni1518/Leetcode/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mayursoni1518/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/Mayursoni1518/Leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
