@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Mayursoni1518/Leetcode/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0268-missing-number) |
@@ -263,12 +264,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Mayursoni1518/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/Mayursoni1518/Leetcode/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mayursoni1518/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
