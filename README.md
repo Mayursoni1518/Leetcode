@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mayursoni1518/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Mayursoni1518/Leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mayursoni1518/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0944-smallest-range-i](https://github.com/Mayursoni1518/Leetcode/tree/master/0944-smallest-range-i) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0263-ugly-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mayursoni1518/Leetcode/tree/master/0342-power-of-four) |
+| [0944-smallest-range-i](https://github.com/Mayursoni1518/Leetcode/tree/master/0944-smallest-range-i) |
 | [1448-maximum-69-number](https://github.com/Mayursoni1518/Leetcode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/Mayursoni1518/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
