@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Mayursoni1518/Leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2102-find-the-middle-index-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mayursoni1518/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Mayursoni1518/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -303,4 +304,5 @@ Collection of LeetCode questions to ace the coding interview !
 | ------- |
 | [0724-find-pivot-index](https://github.com/Mayursoni1518/Leetcode/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2102-find-the-middle-index-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
