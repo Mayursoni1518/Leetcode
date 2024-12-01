@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview !
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mayursoni1518/Leetcode/tree/master/0042-trapping-rain-water) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Stack
 |  |
 | ------- |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1806-count-of-matches-in-tournament](https://github.com/Mayursoni1518/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayursoni1518/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2886-faulty-keyboard](https://github.com/Mayursoni1518/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3447-clear-digits](https://github.com/Mayursoni1518/Leetcode/tree/master/3447-clear-digits) |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Mayursoni1518/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2401-count-asterisks](https://github.com/Mayursoni1518/Leetcode/tree/master/2401-count-asterisks) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2580-circular-sentence](https://github.com/Mayursoni1518/Leetcode/tree/master/2580-circular-sentence) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/Mayursoni1518/Leetcode/tree/master/2886-faulty-keyboard) |
