@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0086-partition-list](https://github.com/Mayursoni1518/Leetcode/tree/master/0086-partition-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayursoni1518/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mayursoni1518/Leetcode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/Mayursoni1518/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mayursoni1518/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mayursoni1518/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview !
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mayursoni1518/Leetcode/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Mayursoni1518/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0812-rotate-string) |
