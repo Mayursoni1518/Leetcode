@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2102-find-the-middle-index-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mayursoni1518/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2159-two-out-of-three](https://github.com/Mayursoni1518/Leetcode/tree/master/2159-two-out-of-three) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Mayursoni1518/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview !
 |  |
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/Mayursoni1518/Leetcode/tree/master/2037-count-square-sum-triples) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Mayursoni1518/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3221-find-the-peaks](https://github.com/Mayursoni1518/Leetcode/tree/master/3221-find-the-peaks) |
 ## Number Theory
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0476-number-complement](https://github.com/Mayursoni1518/Leetcode/tree/master/0476-number-complement) |
 | [1610-xor-operation-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2159-two-out-of-three](https://github.com/Mayursoni1518/Leetcode/tree/master/2159-two-out-of-three) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Counting Sort
 |  |
 | ------- |
@@ -333,4 +336,8 @@ Collection of LeetCode questions to ace the coding interview !
 | [0724-find-pivot-index](https://github.com/Mayursoni1518/Leetcode/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
