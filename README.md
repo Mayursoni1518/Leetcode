@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0944-smallest-range-i](https://github.com/Mayursoni1518/Leetcode/tree/master/0944-smallest-range-i) |
 | [0978-valid-mountain-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0978-valid-mountain-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1041-available-captures-for-rook](https://github.com/Mayursoni1518/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/Mayursoni1518/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -196,12 +197,14 @@ Collection of LeetCode questions to ace the coding interview !
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mayursoni1518/Leetcode/tree/master/0048-rotate-image) |
+| [1041-available-captures-for-rook](https://github.com/Mayursoni1518/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2728-sum-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/2728-sum-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [1041-available-captures-for-rook](https://github.com/Mayursoni1518/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Mayursoni1518/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1806-count-of-matches-in-tournament](https://github.com/Mayursoni1518/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
