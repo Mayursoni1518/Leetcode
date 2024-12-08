@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Mayursoni1518/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Mayursoni1518/Leetcode/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1454-remove-palindromic-subsequences](https://github.com/Mayursoni1518/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mayursoni1518/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0345-reverse-vowels-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Mayursoni1518/Leetcode/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/Mayursoni1518/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0812-rotate-string) |
