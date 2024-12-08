@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0228-summary-ranges](https://github.com/Mayursoni1518/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mayursoni1518/Leetcode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Mayursoni1518/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0219-contains-duplicate-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Mayursoni1518/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayursoni1518/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mayursoni1518/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1454-remove-palindromic-subsequences](https://github.com/Mayursoni1518/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mayursoni1518/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mayursoni1518/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -129,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0035-search-insert-position](https://github.com/Mayursoni1518/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayursoni1518/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mayursoni1518/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mayursoni1518/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -141,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0217-contains-duplicate](https://github.com/Mayursoni1518/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mayursoni1518/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/Mayursoni1518/Leetcode/tree/master/0561-array-partition) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
