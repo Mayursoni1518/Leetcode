@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2238-a-number-after-a-double-reversal](https://github.com/Mayursoni1518/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/Mayursoni1518/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mayursoni1518/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2630-alternating-digit-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/Mayursoni1518/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Mayursoni1518/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Mayursoni1518/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
