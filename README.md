@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0061-rotate-list](https://github.com/Mayursoni1518/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Mayursoni1518/Leetcode/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/Mayursoni1518/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayursoni1518/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mayursoni1518/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview !
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Mayursoni1518/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mayursoni1518/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
