@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0455-assign-cookies](https://github.com/Mayursoni1518/Leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/Mayursoni1518/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Mayursoni1518/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/Mayursoni1518/Leetcode/tree/master/0961-long-pressed-name) |
 | [1454-remove-palindromic-subsequences](https://github.com/Mayursoni1518/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview !
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mayursoni1518/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0874-backspace-string-compare](https://github.com/Mayursoni1518/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mayursoni1518/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3447-clear-digits](https://github.com/Mayursoni1518/Leetcode/tree/master/3447-clear-digits) |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview !
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/Mayursoni1518/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1041-available-captures-for-rook](https://github.com/Mayursoni1518/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Mayursoni1518/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1806-count-of-matches-in-tournament](https://github.com/Mayursoni1518/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
@@ -288,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0680-valid-palindrome-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/Mayursoni1518/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/Mayursoni1518/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/Mayursoni1518/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/Mayursoni1518/Leetcode/tree/master/0961-long-pressed-name) |
 | [1026-string-without-aaa-or-bbb](https://github.com/Mayursoni1518/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
