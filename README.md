@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mayursoni1518/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Mayursoni1518/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Mayursoni1518/Leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mayursoni1518/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1454-remove-palindromic-subsequences](https://github.com/Mayursoni1518/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mayursoni1518/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mayursoni1518/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2561-number-of-distinct-averages](https://github.com/Mayursoni1518/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Mayursoni1518/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2698-find-the-array-concatenation-value](https://github.com/Mayursoni1518/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mayursoni1518/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mayursoni1518/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mayursoni1518/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -251,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1448-maximum-69-number](https://github.com/Mayursoni1518/Leetcode/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mayursoni1518/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mayursoni1518/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Mayursoni1518/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
