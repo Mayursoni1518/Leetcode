@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0048-rotate-image](https://github.com/Mayursoni1518/Leetcode/tree/master/0048-rotate-image) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayursoni1518/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mayursoni1518/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mayursoni1518/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Mayursoni1518/Leetcode/tree/master/0228-summary-ranges) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0086-partition-list](https://github.com/Mayursoni1518/Leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Mayursoni1518/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayursoni1518/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mayursoni1518/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview !
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Mayursoni1518/Leetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mayursoni1518/Leetcode/tree/master/0342-power-of-four) |
