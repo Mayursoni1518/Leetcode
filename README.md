@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview !
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Mayursoni1518/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Mayursoni1518/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0268-missing-number) |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview !
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Mayursoni1518/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Mayursoni1518/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/Mayursoni1518/Leetcode/tree/master/0342-power-of-four) |
 ## Linked List
