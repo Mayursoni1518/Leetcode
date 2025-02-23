@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1319-unique-number-of-occurrences](https://github.com/Mayursoni1518/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mayursoni1518/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1418-fair-distribution-of-cookies](https://github.com/Mayursoni1518/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mayursoni1518/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0131-palindrome-partitioning](https://github.com/Mayursoni1518/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Mayursoni1518/Leetcode/tree/master/0392-is-subsequence) |
 | [1086-divisor-game](https://github.com/Mayursoni1518/Leetcode/tree/master/1086-divisor-game) |
+| [1418-fair-distribution-of-cookies](https://github.com/Mayursoni1518/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 ## Stack
 |  |
@@ -427,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0342-power-of-four](https://github.com/Mayursoni1518/Leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Mayursoni1518/Leetcode/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/Mayursoni1518/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [1418-fair-distribution-of-cookies](https://github.com/Mayursoni1518/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1610-xor-operation-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2159-two-out-of-three](https://github.com/Mayursoni1518/Leetcode/tree/master/2159-two-out-of-three) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -468,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0079-word-search](https://github.com/Mayursoni1518/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Mayursoni1518/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/Mayursoni1518/Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [1418-fair-distribution-of-cookies](https://github.com/Mayursoni1518/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Brainteaser
 |  |
@@ -482,4 +486,8 @@ Collection of LeetCode questions to ace the coding interview !
 |  |
 | ------- |
 | [1572-subrectangle-queries](https://github.com/Mayursoni1518/Leetcode/tree/master/1572-subrectangle-queries) |
+## Bitmask
+|  |
+| ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/Mayursoni1518/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
