@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2728-sum-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/Mayursoni1518/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Mayursoni1518/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mayursoni1518/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3221-find-the-peaks](https://github.com/Mayursoni1518/Leetcode/tree/master/3221-find-the-peaks) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayursoni1518/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2561-number-of-distinct-averages](https://github.com/Mayursoni1518/Leetcode/tree/master/2561-number-of-distinct-averages) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mayursoni1518/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Two Pointers
 |  |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayursoni1518/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2756-buy-two-chocolates](https://github.com/Mayursoni1518/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Mayursoni1518/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mayursoni1518/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mayursoni1518/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Enumeration
 |  |
@@ -400,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Mayursoni1518/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Mayursoni1518/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mayursoni1518/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Heap (Priority Queue)
 |  |
