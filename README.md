@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mayursoni1518/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mayursoni1518/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mayursoni1518/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1660-thousand-separator](https://github.com/Mayursoni1518/Leetcode/tree/master/1660-thousand-separator) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mayursoni1518/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1812-reformat-phone-number](https://github.com/Mayursoni1518/Leetcode/tree/master/1812-reformat-phone-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mayursoni1518/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -505,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0491-non-decreasing-subsequences](https://github.com/Mayursoni1518/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1331-path-with-maximum-gold](https://github.com/Mayursoni1518/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1418-fair-distribution-of-cookies](https://github.com/Mayursoni1518/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mayursoni1518/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Mayursoni1518/Leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
