@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0042-trapping-rain-water](https://github.com/Mayursoni1518/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Mayursoni1518/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Mayursoni1518/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mayursoni1518/Leetcode/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/Mayursoni1518/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayursoni1518/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview !
 | ------- |
 | [0001-two-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Mayursoni1518/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Mayursoni1518/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mayursoni1518/Leetcode/tree/master/0217-contains-duplicate) |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview !
 | ------- |
 | [0015-3sum](https://github.com/Mayursoni1518/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mayursoni1518/Leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Mayursoni1518/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mayursoni1518/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0229-majority-element-ii) |
@@ -354,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview !
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Mayursoni1518/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Mayursoni1518/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Mayursoni1518/Leetcode/tree/master/0131-palindrome-partitioning) |
