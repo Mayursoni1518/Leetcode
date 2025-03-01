@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3221-find-the-peaks](https://github.com/Mayursoni1518/Leetcode/tree/master/3221-find-the-peaks) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mayursoni1518/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3429-special-array-i) |
@@ -466,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0567-permutation-in-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mayursoni1518/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -479,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2159-two-out-of-three](https://github.com/Mayursoni1518/Leetcode/tree/master/2159-two-out-of-three) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Mayursoni1518/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Counting Sort
 |  |
 | ------- |
