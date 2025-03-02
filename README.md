@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Mayursoni1518/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2698-find-the-array-concatenation-value](https://github.com/Mayursoni1518/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mayursoni1518/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2728-sum-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/Mayursoni1518/Leetcode/tree/master/2756-buy-two-chocolates) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2480-find-subarrays-with-equal-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2561-number-of-distinct-averages](https://github.com/Mayursoni1518/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mayursoni1518/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mayursoni1518/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Two Pointers
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2561-number-of-distinct-averages](https://github.com/Mayursoni1518/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Mayursoni1518/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2698-find-the-array-concatenation-value](https://github.com/Mayursoni1518/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mayursoni1518/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mayursoni1518/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
