@@ -412,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2401-count-asterisks](https://github.com/Mayursoni1518/Leetcode/tree/master/2401-count-asterisks) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mayursoni1518/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Mayursoni1518/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2580-circular-sentence](https://github.com/Mayursoni1518/Leetcode/tree/master/2580-circular-sentence) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
