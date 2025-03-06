@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0540-single-element-in-a-sorted-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Mayursoni1518/Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Mayursoni1518/Leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Mayursoni1518/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mayursoni1518/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Mayursoni1518/Leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mayursoni1518/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -479,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0219-contains-duplicate-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Mayursoni1518/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mayursoni1518/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mayursoni1518/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2211-k-radius-subarray-averages](https://github.com/Mayursoni1518/Leetcode/tree/master/2211-k-radius-subarray-averages) |
