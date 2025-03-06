@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3221-find-the-peaks](https://github.com/Mayursoni1518/Leetcode/tree/master/3221-find-the-peaks) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mayursoni1518/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mayursoni1518/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2696-the-number-of-beautiful-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mayursoni1518/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mayursoni1518/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mayursoni1518/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Two Pointers
 |  |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2752-sum-multiples](https://github.com/Mayursoni1518/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Mayursoni1518/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mayursoni1518/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Mayursoni1518/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Matrix
 |  |
@@ -307,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1572-subrectangle-queries](https://github.com/Mayursoni1518/Leetcode/tree/master/1572-subrectangle-queries) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2728-sum-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/2728-sum-in-a-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mayursoni1518/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
