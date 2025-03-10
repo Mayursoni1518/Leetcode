@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mayursoni1518/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1572-subrectangle-queries](https://github.com/Mayursoni1518/Leetcode/tree/master/1572-subrectangle-queries) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mayursoni1518/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Mayursoni1518/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Mayursoni1518/Leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Mayursoni1518/Leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0392-is-subsequence](https://github.com/Mayursoni1518/Leetcode/tree/master/0392-is-subsequence) |
 | [1086-divisor-game](https://github.com/Mayursoni1518/Leetcode/tree/master/1086-divisor-game) |
 | [1418-fair-distribution-of-cookies](https://github.com/Mayursoni1518/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mayursoni1518/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Stack
@@ -486,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0567-permutation-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mayursoni1518/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mayursoni1518/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mayursoni1518/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mayursoni1518/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2211-k-radius-subarray-averages](https://github.com/Mayursoni1518/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mayursoni1518/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
