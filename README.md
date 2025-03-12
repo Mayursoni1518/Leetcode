@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2551-apply-operations-to-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Mayursoni1518/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Mayursoni1518/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mayursoni1518/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2698-find-the-array-concatenation-value](https://github.com/Mayursoni1518/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mayursoni1518/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mayursoni1518/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Mayursoni1518/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mayursoni1518/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Mayursoni1518/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Mayursoni1518/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mayursoni1518/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mayursoni1518/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Heap (Priority Queue)
