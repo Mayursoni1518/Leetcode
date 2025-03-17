@@ -444,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Mayursoni1518/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3447-clear-digits](https://github.com/Mayursoni1518/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Mayursoni1518/Leetcode/tree/master/3451-string-compression-iii) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3636-check-balanced-string](https://github.com/Mayursoni1518/Leetcode/tree/master/3636-check-balanced-string) |
 ## Queue
 |  |
@@ -518,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mayursoni1518/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mayursoni1518/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Bit Manipulation
 |  |
 | ------- |
