@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/Mayursoni1518/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mayursoni1518/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mayursoni1518/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1454-remove-palindromic-subsequences](https://github.com/Mayursoni1518/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mayursoni1518/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mayursoni1518/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -514,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0713-subarray-product-less-than-k](https://github.com/Mayursoni1518/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mayursoni1518/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mayursoni1518/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mayursoni1518/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
