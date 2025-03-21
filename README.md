@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mayursoni1518/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/Mayursoni1518/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mayursoni1518/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Mayursoni1518/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Mayursoni1518/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mayursoni1518/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Mayursoni1518/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1454-remove-palindromic-subsequences](https://github.com/Mayursoni1518/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -524,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0966-binary-subarrays-with-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mayursoni1518/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mayursoni1518/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Mayursoni1518/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mayursoni1518/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mayursoni1518/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -584,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0724-find-pivot-index](https://github.com/Mayursoni1518/Leetcode/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mayursoni1518/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1321-get-equal-substrings-within-budget](https://github.com/Mayursoni1518/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mayursoni1518/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
