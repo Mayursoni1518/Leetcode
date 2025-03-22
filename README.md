@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1041-available-captures-for-rook](https://github.com/Mayursoni1518/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mayursoni1518/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1138-grumpy-bookstore-owner](https://github.com/Mayursoni1518/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1168-duplicate-zeros](https://github.com/Mayursoni1518/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1319-unique-number-of-occurrences](https://github.com/Mayursoni1518/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1331-path-with-maximum-gold](https://github.com/Mayursoni1518/Leetcode/tree/master/1331-path-with-maximum-gold) |
@@ -529,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0966-binary-subarrays-with-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mayursoni1518/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mayursoni1518/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1138-grumpy-bookstore-owner](https://github.com/Mayursoni1518/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mayursoni1518/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mayursoni1518/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
