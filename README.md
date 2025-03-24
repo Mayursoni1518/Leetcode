@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0263-ugly-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mayursoni1518/Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Mayursoni1518/Leetcode/tree/master/0412-fizz-buzz) |
 | [0944-smallest-range-i](https://github.com/Mayursoni1518/Leetcode/tree/master/0944-smallest-range-i) |
 | [1086-divisor-game](https://github.com/Mayursoni1518/Leetcode/tree/master/1086-divisor-game) |
 | [1448-maximum-69-number](https://github.com/Mayursoni1518/Leetcode/tree/master/1448-maximum-69-number) |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview !
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Mayursoni1518/Leetcode/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/Mayursoni1518/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1041-available-captures-for-rook](https://github.com/Mayursoni1518/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Mayursoni1518/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0345-reverse-vowels-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Mayursoni1518/Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Mayursoni1518/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mayursoni1518/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0541-reverse-string-ii) |
