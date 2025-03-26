@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Mayursoni1518/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayursoni1518/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2448-count-number-of-bad-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Mayursoni1518/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mayursoni1518/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Mayursoni1518/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayursoni1518/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2448-count-number-of-bad-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2561-number-of-distinct-averages](https://github.com/Mayursoni1518/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mayursoni1518/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2032-largest-odd-number-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/Mayursoni1518/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Mayursoni1518/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2448-count-number-of-bad-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Mayursoni1518/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mayursoni1518/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2630-alternating-digit-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/2630-alternating-digit-sum) |
@@ -503,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Mayursoni1518/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Mayursoni1518/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mayursoni1518/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mayursoni1518/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
