@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Mayursoni1518/Leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mayursoni1518/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mayursoni1518/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2159-two-out-of-three](https://github.com/Mayursoni1518/Leetcode/tree/master/2159-two-out-of-three) |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1806-count-of-matches-in-tournament](https://github.com/Mayursoni1518/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Mayursoni1518/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mayursoni1518/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/Mayursoni1518/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Mayursoni1518/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -495,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1034-subarrays-with-k-different-integers](https://github.com/Mayursoni1518/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Mayursoni1518/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Mayursoni1518/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
