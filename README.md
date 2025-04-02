@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mayursoni1518/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0890-lemonade-change](https://github.com/Mayursoni1518/Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Mayursoni1518/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/Mayursoni1518/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0932-monotonic-array) |
 | [0944-smallest-range-i](https://github.com/Mayursoni1518/Leetcode/tree/master/0944-smallest-range-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0567-permutation-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/Mayursoni1518/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0917-boats-to-save-people](https://github.com/Mayursoni1518/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0953-reverse-only-letters](https://github.com/Mayursoni1518/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/Mayursoni1518/Leetcode/tree/master/0961-long-pressed-name) |
 | [0985-bag-of-tokens](https://github.com/Mayursoni1518/Leetcode/tree/master/0985-bag-of-tokens) |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Mayursoni1518/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Mayursoni1518/Leetcode/tree/master/0561-array-partition) |
+| [0917-boats-to-save-people](https://github.com/Mayursoni1518/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/Mayursoni1518/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -400,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0605-can-place-flowers](https://github.com/Mayursoni1518/Leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Mayursoni1518/Leetcode/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/Mayursoni1518/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/Mayursoni1518/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1026-string-without-aaa-or-bbb](https://github.com/Mayursoni1518/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1448-maximum-69-number](https://github.com/Mayursoni1518/Leetcode/tree/master/1448-maximum-69-number) |
