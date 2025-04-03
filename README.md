@@ -344,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0268-missing-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mayursoni1518/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Mayursoni1518/Leetcode/tree/master/0412-fizz-buzz) |
+| [0728-self-dividing-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0944-smallest-range-i](https://github.com/Mayursoni1518/Leetcode/tree/master/0944-smallest-range-i) |
 | [1010-powerful-integers](https://github.com/Mayursoni1518/Leetcode/tree/master/1010-powerful-integers) |
 | [1086-divisor-game](https://github.com/Mayursoni1518/Leetcode/tree/master/1086-divisor-game) |
