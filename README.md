@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mayursoni1518/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mayursoni1518/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1961-maximum-ice-cream-bars](https://github.com/Mayursoni1518/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mayursoni1518/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mayursoni1518/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1961-maximum-ice-cream-bars](https://github.com/Mayursoni1518/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mayursoni1518/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1448-maximum-69-number](https://github.com/Mayursoni1518/Leetcode/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mayursoni1518/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mayursoni1518/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1961-maximum-ice-cream-bars](https://github.com/Mayursoni1518/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -623,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview !
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Mayursoni1518/Leetcode/tree/master/0561-array-partition) |
+| [1961-maximum-ice-cream-bars](https://github.com/Mayursoni1518/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 ## Recursion
 |  |
 | ------- |
