@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1572-subrectangle-queries](https://github.com/Mayursoni1518/Leetcode/tree/master/1572-subrectangle-queries) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mayursoni1518/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Mayursoni1518/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Mayursoni1518/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Mayursoni1518/Leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Mayursoni1518/Leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1086-divisor-game](https://github.com/Mayursoni1518/Leetcode/tree/master/1086-divisor-game) |
 | [1418-fair-distribution-of-cookies](https://github.com/Mayursoni1518/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mayursoni1518/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Mayursoni1518/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Stack
@@ -412,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1252-break-a-palindrome](https://github.com/Mayursoni1518/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1448-maximum-69-number](https://github.com/Mayursoni1518/Leetcode/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mayursoni1518/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Mayursoni1518/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mayursoni1518/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1961-maximum-ice-cream-bars](https://github.com/Mayursoni1518/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -480,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mayursoni1518/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mayursoni1518/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1660-thousand-separator](https://github.com/Mayursoni1518/Leetcode/tree/master/1660-thousand-separator) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Mayursoni1518/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mayursoni1518/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1812-reformat-phone-number](https://github.com/Mayursoni1518/Leetcode/tree/master/1812-reformat-phone-number) |
