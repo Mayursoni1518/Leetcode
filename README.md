@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1961-maximum-ice-cream-bars](https://github.com/Mayursoni1518/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2077-largest-number-after-mutating-substring](https://github.com/Mayursoni1518/Leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mayursoni1518/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1961-maximum-ice-cream-bars](https://github.com/Mayursoni1518/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2077-largest-number-after-mutating-substring](https://github.com/Mayursoni1518/Leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Mayursoni1518/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
@@ -501,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Mayursoni1518/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2032-largest-odd-number-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2077-largest-number-after-mutating-substring](https://github.com/Mayursoni1518/Leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Mayursoni1518/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Mayursoni1518/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
