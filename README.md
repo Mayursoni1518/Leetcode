@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview !
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mayursoni1518/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Mayursoni1518/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mayursoni1518/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -588,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview !
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Mayursoni1518/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -599,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0079-word-search](https://github.com/Mayursoni1518/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Mayursoni1518/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0975-range-sum-of-bst](https://github.com/Mayursoni1518/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -608,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview !
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Mayursoni1518/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
