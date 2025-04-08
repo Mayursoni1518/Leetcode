@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0035-search-insert-position](https://github.com/Mayursoni1518/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayursoni1518/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Mayursoni1518/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -593,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Mayursoni1518/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Mayursoni1518/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -622,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Mayursoni1518/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Mayursoni1518/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -669,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview !
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Mayursoni1518/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mayursoni1518/Leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/Mayursoni1518/Leetcode/tree/master/0476-number-complement) |
