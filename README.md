@@ -598,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Mayursoni1518/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Depth-First Search
 |  |
@@ -611,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0617-merge-two-binary-trees](https://github.com/Mayursoni1518/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Mayursoni1518/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
@@ -625,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Mayursoni1518/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Sliding Window
 |  |
@@ -789,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0226-invert-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Mayursoni1518/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Mayursoni1518/Leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Search Tree
 |  |
