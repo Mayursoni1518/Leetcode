@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mayursoni1518/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Mayursoni1518/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Mayursoni1518/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -729,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mayursoni1518/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Mayursoni1518/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2358-number-of-ways-to-split-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [3311-ant-on-the-boundary](https://github.com/Mayursoni1518/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mayursoni1518/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Backtracking
