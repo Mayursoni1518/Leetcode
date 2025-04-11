@@ -384,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2752-sum-multiples](https://github.com/Mayursoni1518/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Mayursoni1518/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [2998-count-symmetric-integers](https://github.com/Mayursoni1518/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mayursoni1518/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Mayursoni1518/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mayursoni1518/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2037-count-square-sum-triples](https://github.com/Mayursoni1518/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Mayursoni1518/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2998-count-symmetric-integers](https://github.com/Mayursoni1518/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/Mayursoni1518/Leetcode/tree/master/3221-find-the-peaks) |
 ## Number Theory
 |  |
