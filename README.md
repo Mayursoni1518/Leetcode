@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1572-subrectangle-queries](https://github.com/Mayursoni1518/Leetcode/tree/master/1572-subrectangle-queries) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mayursoni1518/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Mayursoni1518/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1656-count-good-triplets](https://github.com/Mayursoni1518/Leetcode/tree/master/1656-count-good-triplets) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mayursoni1518/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Mayursoni1518/Leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -460,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview !
 |  |
 | ------- |
 | [1010-powerful-integers](https://github.com/Mayursoni1518/Leetcode/tree/master/1010-powerful-integers) |
+| [1656-count-good-triplets](https://github.com/Mayursoni1518/Leetcode/tree/master/1656-count-good-triplets) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Mayursoni1518/Leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2037-count-square-sum-triples](https://github.com/Mayursoni1518/Leetcode/tree/master/2037-count-square-sum-triples) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
