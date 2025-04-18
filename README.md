@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1448-maximum-69-number](https://github.com/Mayursoni1518/Leetcode/tree/master/1448-maximum-69-number) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mayursoni1518/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mayursoni1518/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mayursoni1518/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Mayursoni1518/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1961-maximum-ice-cream-bars](https://github.com/Mayursoni1518/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
@@ -531,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mayursoni1518/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mayursoni1518/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1812-reformat-phone-number](https://github.com/Mayursoni1518/Leetcode/tree/master/1812-reformat-phone-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mayursoni1518/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mayursoni1518/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
