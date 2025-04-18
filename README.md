@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2433-best-poker-hand](https://github.com/Mayursoni1518/Leetcode/tree/master/2433-best-poker-hand) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayursoni1518/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Mayursoni1518/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mayursoni1518/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mayursoni1518/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Mayursoni1518/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mayursoni1518/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mayursoni1518/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Mayursoni1518/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mayursoni1518/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayursoni1518/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2561-number-of-distinct-averages](https://github.com/Mayursoni1518/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mayursoni1518/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -473,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Mayursoni1518/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Mayursoni1518/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayursoni1518/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2756-buy-two-chocolates](https://github.com/Mayursoni1518/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Mayursoni1518/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Mayursoni1518/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -765,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2102-find-the-middle-index-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Mayursoni1518/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2358-number-of-ways-to-split-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3311-ant-on-the-boundary](https://github.com/Mayursoni1518/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mayursoni1518/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Backtracking
