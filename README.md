@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2728-sum-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/Mayursoni1518/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Mayursoni1518/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/Mayursoni1518/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mayursoni1518/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Mayursoni1518/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mayursoni1518/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/Mayursoni1518/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mayursoni1518/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayursoni1518/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mayursoni1518/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mayursoni1518/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Mayursoni1518/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Mayursoni1518/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/Mayursoni1518/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mayursoni1518/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
@@ -309,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mayursoni1518/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Mayursoni1518/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/Mayursoni1518/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Sorting
 |  |
 | ------- |
@@ -496,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2756-buy-two-chocolates](https://github.com/Mayursoni1518/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Mayursoni1518/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Mayursoni1518/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/Mayursoni1518/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mayursoni1518/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mayursoni1518/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Enumeration
@@ -620,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2433-best-poker-hand](https://github.com/Mayursoni1518/Leetcode/tree/master/2433-best-poker-hand) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mayursoni1518/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3081-minimum-array-length-after-pair-removals](https://github.com/Mayursoni1518/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mayursoni1518/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
