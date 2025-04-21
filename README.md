@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2698-find-the-array-concatenation-value](https://github.com/Mayursoni1518/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mayursoni1518/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Mayursoni1518/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2728-sum-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/Mayursoni1518/Leetcode/tree/master/2756-buy-two-chocolates) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2698-find-the-array-concatenation-value](https://github.com/Mayursoni1518/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mayursoni1518/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Mayursoni1518/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Mayursoni1518/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mayursoni1518/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mayursoni1518/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Mayursoni1518/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Sorting
 |  |
 | ------- |
@@ -346,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mayursoni1518/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Mayursoni1518/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2728-sum-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/Mayursoni1518/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mayursoni1518/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -488,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Mayursoni1518/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayursoni1518/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Mayursoni1518/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2756-buy-two-chocolates](https://github.com/Mayursoni1518/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Mayursoni1518/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Mayursoni1518/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
