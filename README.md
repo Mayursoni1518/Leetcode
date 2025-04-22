@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayursoni1518/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2487-optimal-partition-of-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mayursoni1518/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2561-number-of-distinct-averages](https://github.com/Mayursoni1518/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mayursoni1518/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -497,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Mayursoni1518/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayursoni1518/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2487-optimal-partition-of-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Mayursoni1518/Leetcode/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2756-buy-two-chocolates](https://github.com/Mayursoni1518/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Mayursoni1518/Leetcode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -588,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2401-count-asterisks](https://github.com/Mayursoni1518/Leetcode/tree/master/2401-count-asterisks) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mayursoni1518/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2487-optimal-partition-of-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Mayursoni1518/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2580-circular-sentence](https://github.com/Mayursoni1518/Leetcode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Mayursoni1518/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
