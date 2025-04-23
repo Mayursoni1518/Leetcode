@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1524-string-matching-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mayursoni1518/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Mayursoni1518/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mayursoni1518/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1572-subrectangle-queries](https://github.com/Mayursoni1518/Leetcode/tree/master/1572-subrectangle-queries) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mayursoni1518/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mayursoni1518/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Mayursoni1518/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mayursoni1518/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mayursoni1518/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Mayursoni1518/Leetcode/tree/master/3447-clear-digits) |
@@ -393,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview !
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mayursoni1518/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mayursoni1518/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Math
 |  |
 | ------- |
