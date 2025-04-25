@@ -1,7 +1,7 @@
 class Solution {
 public:
     int waysToSplitArray(vector<int>& nums) {
-        long long total = 0 ;
+         long long total = 0 ;
         long long sum = 0 ;
         int n = nums.size() ;
 
