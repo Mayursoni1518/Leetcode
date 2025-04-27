@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mayursoni1518/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3221-find-the-peaks](https://github.com/Mayursoni1518/Leetcode/tree/master/3221-find-the-peaks) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayursoni1518/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
