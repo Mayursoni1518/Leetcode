@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Mayursoni1518/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mayursoni1518/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3778-transform-array-by-parity](https://github.com/Mayursoni1518/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2756-buy-two-chocolates](https://github.com/Mayursoni1518/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mayursoni1518/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mayursoni1518/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3778-transform-array-by-parity](https://github.com/Mayursoni1518/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -665,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mayursoni1518/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3778-transform-array-by-parity](https://github.com/Mayursoni1518/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
