@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mayursoni1518/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mayursoni1518/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Mayursoni1518/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Mayursoni1518/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
