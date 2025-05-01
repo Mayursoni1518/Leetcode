@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Mayursoni1518/Leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mayursoni1518/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mayursoni1518/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -615,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2032-largest-odd-number-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Mayursoni1518/Leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mayursoni1518/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Mayursoni1518/Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Mayursoni1518/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
