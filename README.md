@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0540-single-element-in-a-sorted-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayursoni1518/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Mayursoni1518/Leetcode/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/Mayursoni1518/Leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Mayursoni1518/Leetcode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Mayursoni1518/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0491-non-decreasing-subsequences](https://github.com/Mayursoni1518/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayursoni1518/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/Mayursoni1518/Leetcode/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/Mayursoni1518/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/Mayursoni1518/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
