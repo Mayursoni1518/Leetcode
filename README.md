@@ -548,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mayursoni1518/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3195-separate-black-and-white-balls](https://github.com/Mayursoni1518/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mayursoni1518/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Mayursoni1518/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Enumeration
 |  |
 | ------- |
@@ -651,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Mayursoni1518/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Mayursoni1518/Leetcode/tree/master/3451-string-compression-iii) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Mayursoni1518/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3636-check-balanced-string](https://github.com/Mayursoni1518/Leetcode/tree/master/3636-check-balanced-string) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
