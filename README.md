@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Mayursoni1518/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Mayursoni1518/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2211-k-radius-subarray-averages](https://github.com/Mayursoni1518/Leetcode/tree/master/2211-k-radius-subarray-averages) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Mayursoni1518/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -536,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2117-find-original-array-from-doubled-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Mayursoni1518/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/Mayursoni1518/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Mayursoni1518/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Mayursoni1518/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Mayursoni1518/Leetcode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
