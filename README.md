@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1138-grumpy-bookstore-owner](https://github.com/Mayursoni1518/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1168-duplicate-zeros](https://github.com/Mayursoni1518/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1310-watering-plants](https://github.com/Mayursoni1518/Leetcode/tree/master/1310-watering-plants) |
 | [1319-unique-number-of-occurrences](https://github.com/Mayursoni1518/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1010-powerful-integers](https://github.com/Mayursoni1518/Leetcode/tree/master/1010-powerful-integers) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mayursoni1518/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Mayursoni1518/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -677,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0387-first-unique-character-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mayursoni1518/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
