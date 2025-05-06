@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1961-maximum-ice-cream-bars](https://github.com/Mayursoni1518/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2048-build-array-from-permutation](https://github.com/Mayursoni1518/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Mayursoni1518/Leetcode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mayursoni1518/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1310-watering-plants](https://github.com/Mayursoni1518/Leetcode/tree/master/1310-watering-plants) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Mayursoni1518/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1806-count-of-matches-in-tournament](https://github.com/Mayursoni1518/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2048-build-array-from-permutation](https://github.com/Mayursoni1518/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mayursoni1518/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mayursoni1518/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mayursoni1518/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
