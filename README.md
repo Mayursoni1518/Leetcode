@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1418-fair-distribution-of-cookies](https://github.com/Mayursoni1518/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mayursoni1518/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Mayursoni1518/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mayursoni1518/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mayursoni1518/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1319-unique-number-of-occurrences](https://github.com/Mayursoni1518/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Mayursoni1518/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mayursoni1518/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mayursoni1518/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1256-rank-transform-of-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Mayursoni1518/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mayursoni1518/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mayursoni1518/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Mayursoni1518/Leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -542,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1026-string-without-aaa-or-bbb](https://github.com/Mayursoni1518/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1252-break-a-palindrome](https://github.com/Mayursoni1518/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1448-maximum-69-number](https://github.com/Mayursoni1518/Leetcode/tree/master/1448-maximum-69-number) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Mayursoni1518/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Mayursoni1518/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mayursoni1518/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -723,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0239-sliding-window-maximum](https://github.com/Mayursoni1518/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1127-last-stone-weight](https://github.com/Mayursoni1518/Leetcode/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1464-reduce-array-size-to-the-half](https://github.com/Mayursoni1518/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Mayursoni1518/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayursoni1518/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2728-sum-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/2728-sum-in-a-matrix) |
