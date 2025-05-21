@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mayursoni1518/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mayursoni1518/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mayursoni1518/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Mayursoni1518/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -497,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3227-find-missing-and-repeated-values](https://github.com/Mayursoni1518/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Mayursoni1518/Leetcode/tree/master/3321-type-of-triangle) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Mayursoni1518/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mayursoni1518/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mayursoni1518/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Matrix
