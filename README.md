@@ -449,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Mayursoni1518/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1078-remove-outermost-parentheses](https://github.com/Mayursoni1518/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mayursoni1518/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mayursoni1518/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -636,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0953-reverse-only-letters](https://github.com/Mayursoni1518/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/Mayursoni1518/Leetcode/tree/master/0961-long-pressed-name) |
 | [1026-string-without-aaa-or-bbb](https://github.com/Mayursoni1518/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
+| [1078-remove-outermost-parentheses](https://github.com/Mayursoni1518/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1252-break-a-palindrome](https://github.com/Mayursoni1518/Leetcode/tree/master/1252-break-a-palindrome) |
