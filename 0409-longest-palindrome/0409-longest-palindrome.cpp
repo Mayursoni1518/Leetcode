@@ -1,27 +1,17 @@
 class Solution {
 public:
     int longestPalindrome(string s) {
-        unordered_map<char, int> mp;
-        int sum = 0;
-
-        for (auto& i : s) {
-            mp[i]++;
+        int oddCount = 0;
+        unordered_map<char, int> ump;
+        for(char ch : s) {
+            ump[ch]++;
+            if (ump[ch] % 2 == 1)
+                oddCount++;
+            else    
+                oddCount--;
         }
-
-        bool valid = true;
-        for (auto& i : mp) {
-            if (i.second % 2 != 0) {
-                if (valid) {
-                    sum += i.second;
-                    valid = false;
-                } else {
-                    sum += i.second - 1; // add only even part
-                }
-            } else {
-                sum += i.second;
-            }
-        }
-
-        return sum;
+        if (oddCount > 1)
+            return s.length() - oddCount + 1;
+        return s.length();
     }
 };
