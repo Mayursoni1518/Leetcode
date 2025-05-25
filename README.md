@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1961-maximum-ice-cream-bars](https://github.com/Mayursoni1518/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Mayursoni1518/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mayursoni1518/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Mayursoni1518/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2077-largest-number-after-mutating-substring](https://github.com/Mayursoni1518/Leetcode/tree/master/2077-largest-number-after-mutating-substring) |
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1331-path-with-maximum-gold](https://github.com/Mayursoni1518/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1572-subrectangle-queries](https://github.com/Mayursoni1518/Leetcode/tree/master/1572-subrectangle-queries) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mayursoni1518/Leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2728-sum-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/2728-sum-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mayursoni1518/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
