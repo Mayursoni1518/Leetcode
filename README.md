@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0073-set-matrix-zeroes](https://github.com/Mayursoni1518/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mayursoni1518/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Mayursoni1518/Leetcode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayursoni1518/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayursoni1518/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0137-single-number-ii) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0075-sort-colors](https://github.com/Mayursoni1518/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Mayursoni1518/Leetcode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Mayursoni1518/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayursoni1518/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0049-group-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mayursoni1518/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Mayursoni1518/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Mayursoni1518/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Mayursoni1518/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mayursoni1518/Leetcode/tree/master/0217-contains-duplicate) |
