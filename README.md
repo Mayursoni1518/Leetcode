@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mayursoni1518/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mayursoni1518/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mayursoni1518/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Mayursoni1518/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Mayursoni1518/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mayursoni1518/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Mayursoni1518/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mayursoni1518/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -745,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2163-kth-distinct-string-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Mayursoni1518/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Mayursoni1518/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Mayursoni1518/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Mayursoni1518/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
