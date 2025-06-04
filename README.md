@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3195-separate-black-and-white-balls](https://github.com/Mayursoni1518/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mayursoni1518/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -641,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Mayursoni1518/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2998-count-symmetric-integers](https://github.com/Mayursoni1518/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/Mayursoni1518/Leetcode/tree/master/3221-find-the-peaks) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -742,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Mayursoni1518/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3636-check-balanced-string](https://github.com/Mayursoni1518/Leetcode/tree/master/3636-check-balanced-string) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Queue
 |  |
