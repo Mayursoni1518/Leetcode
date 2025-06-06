@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0229-majority-element-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mayursoni1518/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Mayursoni1518/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Mayursoni1518/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Mayursoni1518/Leetcode/tree/master/0283-move-zeroes) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayursoni1518/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Mayursoni1518/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -548,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0073-set-matrix-zeroes](https://github.com/Mayursoni1518/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Mayursoni1518/Leetcode/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1041-available-captures-for-rook](https://github.com/Mayursoni1518/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1331-path-with-maximum-gold](https://github.com/Mayursoni1518/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -811,6 +814,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0004-median-of-two-sorted-arrays](https://github.com/Mayursoni1518/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Mayursoni1518/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mayursoni1518/Leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## String Matching
 |  |
 | ------- |
