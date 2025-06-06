@@ -1,28 +1,32 @@
 class Solution {
 public:
-    bool searchMatrix(vector<vector<int>>& matrix, int target) {
-        for (int i = 0; i < matrix.size(); i++) {
-            int fi = matrix[i][0];
-            int sec = matrix[i].back();
+    bool searchMatrix(vector<vector<int>>& mat, int target) {
+        int m = mat.size() ;
+        int n = mat[0].size()- 1 ;
 
-            if (target >= fi && target <= sec) {
-                
-                int low = 0;
-                int high = matrix[0].size() - 1;
+        int st = 0 ;
+        int col = n ;
 
-                while (low <= high) {
-                    int mid = low + (high - low) / 2;
-
-                    if (matrix[i][mid] == target) {
-                        return true;
-                    } else if (matrix[i][mid] > target) {
-                        high = mid - 1;
-                    } else {
-                        low = mid + 1;
-                    }
-                }
+        while(st <= m - 1 && col >= 0 ) 
+        {
+            if(mat[st][col] == target) {
+                return true; 
+            }
+            else if(mat[st][col] > target ) {
+                col-- ;
+            }
+            else{
+                st++; 
             }
         }
-        return false;
+        return false ;
     }
 };
+// approach for this question is to 
+// start with the top-right element 
+// if the target is less than 
+// col--
+
+// if(target is greater then )[
+//     row++ ;
+// ]
