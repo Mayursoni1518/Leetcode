@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayursoni1518/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3226-minimum-number-game](https://github.com/Mayursoni1518/Leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mayursoni1518/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Mayursoni1518/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3311-ant-on-the-boundary](https://github.com/Mayursoni1518/Leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mayursoni1518/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayursoni1518/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mayursoni1518/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Mayursoni1518/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mayursoni1518/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
@@ -806,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mayursoni1518/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Mayursoni1518/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mayursoni1518/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Mayursoni1518/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3778-transform-array-by-parity](https://github.com/Mayursoni1518/Leetcode/tree/master/3778-transform-array-by-parity) |
