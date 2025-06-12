@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2350-find-closest-number-to-zero](https://github.com/Mayursoni1518/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -546,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Mayursoni1518/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Mayursoni1518/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Mayursoni1518/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mayursoni1518/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -595,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2271-rearrange-array-elements-by-sign](https://github.com/Mayursoni1518/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Mayursoni1518/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Mayursoni1518/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
@@ -1068,6 +1071,7 @@ Collection of LeetCode questions to ace the coding interview !
 ## Combinatorics
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Monotonic Queue
 |  |
