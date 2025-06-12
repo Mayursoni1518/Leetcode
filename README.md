@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Mayursoni1518/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mayursoni1518/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mayursoni1518/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/Mayursoni1518/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
