@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mayursoni1518/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mayursoni1518/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/Mayursoni1518/Leetcode/tree/master/3778-transform-array-by-parity) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mayursoni1518/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mayursoni1518/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mayursoni1518/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -672,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Mayursoni1518/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Mayursoni1518/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Mayursoni1518/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mayursoni1518/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Enumeration
 |  |
 | ------- |
