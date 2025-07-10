@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Mayursoni1518/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mayursoni1518/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mayursoni1518/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Mayursoni1518/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mayursoni1518/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2698-find-the-array-concatenation-value](https://github.com/Mayursoni1518/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2561-number-of-distinct-averages](https://github.com/Mayursoni1518/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mayursoni1518/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Mayursoni1518/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Mayursoni1518/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mayursoni1518/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -506,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mayursoni1518/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mayursoni1518/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Mayursoni1518/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Stack
@@ -788,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2580-circular-sentence](https://github.com/Mayursoni1518/Leetcode/tree/master/2580-circular-sentence) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Mayursoni1518/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/Mayursoni1518/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Mayursoni1518/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
