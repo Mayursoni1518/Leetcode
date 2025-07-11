@@ -1,36 +1,23 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        unordered_map<char, int> count;
-
-        for (auto i : s) {
-            count[i]++;
+        unordered_map<char, int> mp;
+        for (auto& ch : s) {
+            mp[ch]++;
         }
-        for (auto i : t) {
-            count[i]--;
+        for (auto& ch : t) {
+            if(mp[ch] > 0 ) {
+                mp[ch]-- ;
+            }
+            else{
+                return false ;
+            }
         }
-
-        for (auto x : count) {
-            if (x.second != 0) {
+        for (auto& i : mp) {
+            if (i.second >= 1) {
                 return false;
             }
         }
         return true;
     }
 };
-
-// int count[26] = {0};
-
-// for (auto x : s) {
-//     count[x - 'a']++;
-// }
-// for (auto i : t) {
-//     count[i - 'a']--;
-// }
-
-// for (auto y : count) {
-//     if (y != 0) {
-//         return false;
-//     }
-// }
-// return true;
