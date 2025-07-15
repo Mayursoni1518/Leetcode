@@ -714,6 +714,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0008-string-to-integer-atoi](https://github.com/Mayursoni1518/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/Mayursoni1518/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Mayursoni1518/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Mayursoni1518/Leetcode/tree/master/0079-word-search) |
