@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mayursoni1518/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayursoni1518/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mayursoni1518/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Mayursoni1518/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayursoni1518/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mayursoni1518/Leetcode/tree/master/0169-majority-element) |
@@ -520,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0094-binary-tree-inorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mayursoni1518/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mayursoni1518/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0874-backspace-string-compare](https://github.com/Mayursoni1518/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mayursoni1518/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Mayursoni1518/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -542,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0048-rotate-image](https://github.com/Mayursoni1518/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mayursoni1518/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Mayursoni1518/Leetcode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mayursoni1518/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0268-missing-number) |
