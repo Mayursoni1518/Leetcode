@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0611-valid-triangle-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Mayursoni1518/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Mayursoni1518/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/Mayursoni1518/Leetcode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Mayursoni1518/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Mayursoni1518/Leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mayursoni1518/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -532,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mayursoni1518/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Mayursoni1518/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Mayursoni1518/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Mayursoni1518/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mayursoni1518/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Mayursoni1518/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -622,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview !
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Mayursoni1518/Leetcode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Mayursoni1518/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Mayursoni1518/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1041-available-captures-for-rook](https://github.com/Mayursoni1518/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1310-watering-plants](https://github.com/Mayursoni1518/Leetcode/tree/master/1310-watering-plants) |
