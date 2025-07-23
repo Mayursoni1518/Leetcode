@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mayursoni1518/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/Mayursoni1518/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1839-decode-xored-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1839-decode-xored-array) |
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Mayursoni1518/Leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mayursoni1518/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Mayursoni1518/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -1040,6 +1041,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1418-fair-distribution-of-cookies](https://github.com/Mayursoni1518/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1610-xor-operation-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Mayursoni1518/Leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1839-decode-xored-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1839-decode-xored-array) |
 | [2159-two-out-of-three](https://github.com/Mayursoni1518/Leetcode/tree/master/2159-two-out-of-three) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Mayursoni1518/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
