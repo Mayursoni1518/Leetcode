@@ -1192,4 +1192,8 @@ Collection of LeetCode questions to ace the coding interview !
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mayursoni1518/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Mayursoni1518/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
