@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1034-subarrays-with-k-different-integers](https://github.com/Mayursoni1518/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1041-available-captures-for-rook](https://github.com/Mayursoni1518/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mayursoni1518/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/Mayursoni1518/Leetcode/tree/master/1127-last-stone-weight) |
 | [1138-grumpy-bookstore-owner](https://github.com/Mayursoni1518/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
@@ -675,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mayursoni1518/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/Mayursoni1518/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1026-string-without-aaa-or-bbb](https://github.com/Mayursoni1518/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1252-break-a-palindrome](https://github.com/Mayursoni1518/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1448-maximum-69-number](https://github.com/Mayursoni1518/Leetcode/tree/master/1448-maximum-69-number) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Mayursoni1518/Leetcode/tree/master/1464-reduce-array-size-to-the-half) |
