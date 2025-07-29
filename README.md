@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0978-valid-mountain-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0978-valid-mountain-array) |
 | [0985-bag-of-tokens](https://github.com/Mayursoni1518/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1018-largest-perimeter-triangle](https://github.com/Mayursoni1518/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Mayursoni1518/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mayursoni1518/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1041-available-captures-for-rook](https://github.com/Mayursoni1518/Leetcode/tree/master/1041-available-captures-for-rook) |
@@ -472,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0941-sort-array-by-parity](https://github.com/Mayursoni1518/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0985-bag-of-tokens](https://github.com/Mayursoni1518/Leetcode/tree/master/0985-bag-of-tokens) |
+| [1018-largest-perimeter-triangle](https://github.com/Mayursoni1518/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -577,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0909-stone-game](https://github.com/Mayursoni1518/Leetcode/tree/master/0909-stone-game) |
 | [0944-smallest-range-i](https://github.com/Mayursoni1518/Leetcode/tree/master/0944-smallest-range-i) |
 | [1010-powerful-integers](https://github.com/Mayursoni1518/Leetcode/tree/master/1010-powerful-integers) |
+| [1018-largest-perimeter-triangle](https://github.com/Mayursoni1518/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/Mayursoni1518/Leetcode/tree/master/1086-divisor-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mayursoni1518/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Mayursoni1518/Leetcode/tree/master/1448-maximum-69-number) |
@@ -676,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0917-boats-to-save-people](https://github.com/Mayursoni1518/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mayursoni1518/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/Mayursoni1518/Leetcode/tree/master/0985-bag-of-tokens) |
+| [1018-largest-perimeter-triangle](https://github.com/Mayursoni1518/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1026-string-without-aaa-or-bbb](https://github.com/Mayursoni1518/Leetcode/tree/master/1026-string-without-aaa-or-bbb) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1252-break-a-palindrome](https://github.com/Mayursoni1518/Leetcode/tree/master/1252-break-a-palindrome) |
