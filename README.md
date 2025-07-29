@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0978-valid-mountain-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0978-valid-mountain-array) |
 | [0985-bag-of-tokens](https://github.com/Mayursoni1518/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Mayursoni1518/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mayursoni1518/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1041-available-captures-for-rook](https://github.com/Mayursoni1518/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mayursoni1518/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -631,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0412-fizz-buzz](https://github.com/Mayursoni1518/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Mayursoni1518/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Mayursoni1518/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Mayursoni1518/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1041-available-captures-for-rook](https://github.com/Mayursoni1518/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1310-watering-plants](https://github.com/Mayursoni1518/Leetcode/tree/master/1310-watering-plants) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Mayursoni1518/Leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
