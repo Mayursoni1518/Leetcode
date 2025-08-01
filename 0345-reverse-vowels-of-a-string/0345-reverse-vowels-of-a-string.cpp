@@ -1,29 +1,28 @@
 class Solution {
 public:
-    void swap(char &a , char &b) {
-        char temp = a; 
-        a = b ;
-        b = temp ;
+    bool isVowel(char ch) {
+        ch = tolower(ch); 
+        return ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u';
     }
+
     string reverseVowels(string s) {
-        int st = 0 ;
-        int end = s.size() -1 ;
+        int i = 0;
+        int j = s.size() - 1;
 
-        auto Vowel = [](char c) {
-            return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' ||
-                   c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U';
-        };
-
-        while(st < end) {
-            if(Vowel(s[st]) && Vowel(s[end])){
-                swap(s[st] , s[end]) ;
-                st++; 
-                end--; 
+        while (i < j) {
+            if (isVowel(s[i]) && isVowel(s[j])) {
+                swap(s[i], s[j]);
+                i++;
+                j--;
             }
-            else if ( !Vowel(s[st])) st++ ;
-            else if( !Vowel(s[end])) end-- ;
+            else if (isVowel(s[i]) && !isVowel(s[j])) {
+                j--;
+            }
+            else {
+                i++;
+            }
         }
-        return s ;
+
+        return s;
     }
-    
 };
