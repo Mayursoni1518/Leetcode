@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3334-apple-redistribution-into-boxes](https://github.com/Mayursoni1518/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mayursoni1518/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3429-special-array-i) |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayursoni1518/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mayursoni1518/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Mayursoni1518/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mayursoni1518/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
