@@ -535,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1418-fair-distribution-of-cookies](https://github.com/Mayursoni1518/Leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mayursoni1518/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mayursoni1518/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1764-maximum-repeating-substring](https://github.com/Mayursoni1518/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Mayursoni1518/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -804,6 +805,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Mayursoni1518/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Mayursoni1518/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1764-maximum-repeating-substring](https://github.com/Mayursoni1518/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mayursoni1518/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1812-reformat-phone-number](https://github.com/Mayursoni1518/Leetcode/tree/master/1812-reformat-phone-number) |
@@ -938,6 +940,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0812-rotate-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mayursoni1518/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1764-maximum-repeating-substring](https://github.com/Mayursoni1518/Leetcode/tree/master/1764-maximum-repeating-substring) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Tree
 |  |
