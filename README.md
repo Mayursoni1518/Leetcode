@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0485-max-consecutive-ones](https://github.com/Mayursoni1518/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/Mayursoni1518/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Mayursoni1518/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Mayursoni1518/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayursoni1518/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Mayursoni1518/Leetcode/tree/master/0561-array-partition) |
@@ -632,6 +633,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0074-search-a-2d-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Mayursoni1518/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/Mayursoni1518/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1041-available-captures-for-rook](https://github.com/Mayursoni1518/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Mayursoni1518/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1331-path-with-maximum-gold](https://github.com/Mayursoni1518/Leetcode/tree/master/1331-path-with-maximum-gold) |
@@ -646,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview !
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Mayursoni1518/Leetcode/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/Mayursoni1518/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Mayursoni1518/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Mayursoni1518/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Mayursoni1518/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
