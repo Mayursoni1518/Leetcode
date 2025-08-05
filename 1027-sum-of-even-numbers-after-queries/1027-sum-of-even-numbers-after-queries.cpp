@@ -2,32 +2,36 @@ class Solution {
 public:
     vector<int> sumEvenAfterQueries(vector<int>& nums,
                                     vector<vector<int>>& queries) {
-        vector<int> ans;
-        int totalEvenSum = 0;
+        int evenSum = 0;
 
-        // Step 1: calculate initial even sum
+        // Initial even sum
         for (int num : nums) {
-            if (num % 2 == 0) totalEvenSum += num;
+            if (num % 2 == 0) {
+                evenSum += num;
+            }
         }
 
-        // Step 2: process each query
+        vector<int> ans;
+
         for (auto& q : queries) {
             int val = q[0];
             int index = q[1];
-            
+
+       
             if (nums[index] % 2 == 0) {
-                totalEvenSum -= nums[index];
+                evenSum -= nums[index];
             }
 
-            
+           
             nums[index] += val;
 
-          
+            
             if (nums[index] % 2 == 0) {
-                totalEvenSum += nums[index];
+                evenSum += nums[index];
             }
 
-            ans.push_back(totalEvenSum);
+          
+            ans.push_back(evenSum);
         }
 
         return ans;
