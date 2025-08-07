@@ -607,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1010-powerful-integers](https://github.com/Mayursoni1518/Leetcode/tree/master/1010-powerful-integers) |
 | [1018-largest-perimeter-triangle](https://github.com/Mayursoni1518/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/Mayursoni1518/Leetcode/tree/master/1086-divisor-game) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayursoni1518/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mayursoni1518/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Mayursoni1518/Leetcode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -1129,6 +1130,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0234-palindrome-linked-list](https://github.com/Mayursoni1518/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mayursoni1518/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Mayursoni1518/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayursoni1518/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Prefix Sum
 |  |
 | ------- |
