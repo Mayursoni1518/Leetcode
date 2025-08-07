@@ -1,15 +1,10 @@
 class Solution {
 public:
     bool checkIfPangram(string sentence) {
-        unordered_map<char ,int>mp ;
-        for(auto& i : sentence){
-            mp[i]++ ; 
-        }
-        for(char ch = 'a' ; ch <= 'z' ; ch++) {
-            if(mp[ch] == 0) {
-                return false ; 
-            }
-        }
-        return true; 
+      set<char>st(sentence.begin() , sentence.end())  ;
+      if(st.size() < 26) {
+        return false ; 
+      }
+      return true ; 
     }
 };
