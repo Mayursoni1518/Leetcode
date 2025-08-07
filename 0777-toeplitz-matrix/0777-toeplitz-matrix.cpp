@@ -20,3 +20,16 @@ public:
         return true ; 
     }
 };
+
+another easy approach 
+notice every element in diagonal is in 
+if you are at (i , j) you diagonal will be ak row uper and ak column peeche 
+
+for(int i = 1 ; i < m ; i++ ) {
+    for(int j = 1 ; j < n ; j++) {
+        if(matrix[i][j] != matrix[i-1][matrix[j-1]]) {
+            return false ; 
+        }
+    }
+    return true ; 
+}
