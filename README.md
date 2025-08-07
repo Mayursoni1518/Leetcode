@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0713-subarray-product-less-than-k](https://github.com/Mayursoni1518/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Mayursoni1518/Leetcode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Mayursoni1518/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0777-toeplitz-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Mayursoni1518/Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Mayursoni1518/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -642,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0079-word-search](https://github.com/Mayursoni1518/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Mayursoni1518/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0777-toeplitz-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1041-available-captures-for-rook](https://github.com/Mayursoni1518/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Mayursoni1518/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1331-path-with-maximum-gold](https://github.com/Mayursoni1518/Leetcode/tree/master/1331-path-with-maximum-gold) |
