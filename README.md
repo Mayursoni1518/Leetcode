@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0076-minimum-window-substring](https://github.com/Mayursoni1518/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Mayursoni1518/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Mayursoni1518/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mayursoni1518/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Mayursoni1518/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Mayursoni1518/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mayursoni1518/Leetcode/tree/master/0217-contains-duplicate) |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0125-valid-palindrome](https://github.com/Mayursoni1518/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Mayursoni1518/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mayursoni1518/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mayursoni1518/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Mayursoni1518/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -1122,6 +1124,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mayursoni1518/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Mayursoni1518/Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Mayursoni1518/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mayursoni1518/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Mayursoni1518/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Mayursoni1518/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mayursoni1518/Leetcode/tree/master/0328-odd-even-linked-list) |
