@@ -577,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1720-crawler-log-folder](https://github.com/Mayursoni1518/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Mayursoni1518/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Mayursoni1518/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3447-clear-digits](https://github.com/Mayursoni1518/Leetcode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -584,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0042-trapping-rain-water](https://github.com/Mayursoni1518/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Mayursoni1518/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mayursoni1518/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Mayursoni1518/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -1114,6 +1116,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0234-palindrome-linked-list](https://github.com/Mayursoni1518/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Mayursoni1518/Leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0394-decode-string) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Mayursoni1518/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -1131,6 +1134,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0328-odd-even-linked-list](https://github.com/Mayursoni1518/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Mayursoni1518/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mayursoni1518/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Mayursoni1518/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
