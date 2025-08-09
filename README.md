@@ -492,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0561-array-partition](https://github.com/Mayursoni1518/Leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Mayursoni1518/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/Mayursoni1518/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0935-orderly-queue](https://github.com/Mayursoni1518/Leetcode/tree/master/0935-orderly-queue) |
 | [0941-sort-array-by-parity](https://github.com/Mayursoni1518/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0985-bag-of-tokens](https://github.com/Mayursoni1518/Leetcode/tree/master/0985-bag-of-tokens) |
@@ -608,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0633-sum-of-square-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Mayursoni1518/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0909-stone-game](https://github.com/Mayursoni1518/Leetcode/tree/master/0909-stone-game) |
+| [0935-orderly-queue](https://github.com/Mayursoni1518/Leetcode/tree/master/0935-orderly-queue) |
 | [0944-smallest-range-i](https://github.com/Mayursoni1518/Leetcode/tree/master/0944-smallest-range-i) |
 | [1010-powerful-integers](https://github.com/Mayursoni1518/Leetcode/tree/master/1010-powerful-integers) |
 | [1018-largest-perimeter-triangle](https://github.com/Mayursoni1518/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -813,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0782-jewels-and-stones](https://github.com/Mayursoni1518/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Mayursoni1518/Leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Mayursoni1518/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0935-orderly-queue](https://github.com/Mayursoni1518/Leetcode/tree/master/0935-orderly-queue) |
 | [0953-reverse-only-letters](https://github.com/Mayursoni1518/Leetcode/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mayursoni1518/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/Mayursoni1518/Leetcode/tree/master/0961-long-pressed-name) |
