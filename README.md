@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Mayursoni1518/Leetcode/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mayursoni1518/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Mayursoni1518/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Mayursoni1518/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Mayursoni1518/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mayursoni1518/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2561-number-of-distinct-averages](https://github.com/Mayursoni1518/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Mayursoni1518/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Mayursoni1518/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Mayursoni1518/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Mayursoni1518/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mayursoni1518/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -778,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Mayursoni1518/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Mayursoni1518/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Mayursoni1518/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2998-count-symmetric-integers](https://github.com/Mayursoni1518/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/Mayursoni1518/Leetcode/tree/master/3221-find-the-peaks) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
