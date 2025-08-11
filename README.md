@@ -546,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0005-longest-palindromic-substring](https://github.com/Mayursoni1518/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Mayursoni1518/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Mayursoni1518/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Mayursoni1518/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mayursoni1518/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Mayursoni1518/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -606,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0012-integer-to-roman](https://github.com/Mayursoni1518/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Mayursoni1518/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mayursoni1518/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Mayursoni1518/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Mayursoni1518/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Mayursoni1518/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Mayursoni1518/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -1218,6 +1220,7 @@ Collection of LeetCode questions to ace the coding interview !
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Mayursoni1518/Leetcode/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Monotonic Queue
