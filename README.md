@@ -910,6 +910,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3194-find-words-containing-character](https://github.com/Mayursoni1518/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Mayursoni1518/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3312-number-of-changing-keys](https://github.com/Mayursoni1518/Leetcode/tree/master/3312-number-of-changing-keys) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Mayursoni1518/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3447-clear-digits](https://github.com/Mayursoni1518/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Mayursoni1518/Leetcode/tree/master/3451-string-compression-iii) |
