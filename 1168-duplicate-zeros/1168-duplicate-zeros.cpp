@@ -1,19 +1,20 @@
 class Solution {
 public:
     void duplicateZeros(vector<int>& arr) {
+        queue<int>q ;
         int n = arr.size() ; 
-        queue<int>Q ;
 
-        for(int i = 0 ; i < arr.size() ; i++ ){
-            Q.push(arr[i]) ;
-            if(arr[i] == 0 ){
-                Q.push(0) ;
+        for(int i = 0 ; i < n ; i++ )
+        {
+            q.push(arr[i]) ;
+            if(arr[i] == 0 ) {
+                q.push(0); 
             }
         }
 
-        for(int i = 0 ; i < arr.size() ; i++ ){
-            arr[i] = Q.front() ;
-            Q.pop() ; 
+        for(int i = 0 ; i < n ; i++) {
+            arr[i] = q.front();
+            q.pop(); 
         }
     }
 };
