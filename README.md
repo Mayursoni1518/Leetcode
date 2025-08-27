@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mayursoni1518/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2102-find-the-middle-index-in-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Mayursoni1518/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Mayursoni1518/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -641,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1950-sign-of-the-product-of-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/Mayursoni1518/Leetcode/tree/master/2037-count-square-sum-triples) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Mayursoni1518/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Mayursoni1518/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Mayursoni1518/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -796,6 +798,7 @@ Collection of LeetCode questions to ace the coding interview !
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Mayursoni1518/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2491-smallest-even-multiple](https://github.com/Mayursoni1518/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## String
