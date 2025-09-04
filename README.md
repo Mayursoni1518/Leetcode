@@ -666,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mayursoni1518/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Mayursoni1518/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Mayursoni1518/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3830-find-closest-person](https://github.com/Mayursoni1518/Leetcode/tree/master/3830-find-closest-person) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/Mayursoni1518/Leetcode/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Matrix
 |  |
