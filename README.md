@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mayursoni1518/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Mayursoni1518/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Mayursoni1518/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -848,6 +849,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Mayursoni1518/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1252-break-a-palindrome](https://github.com/Mayursoni1518/Leetcode/tree/master/1252-break-a-palindrome) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Mayursoni1518/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mayursoni1518/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Mayursoni1518/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
