@@ -353,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2669-find-the-substring-with-maximum-cost](https://github.com/Mayursoni1518/Leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mayursoni1518/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2825-minimize-string-length](https://github.com/Mayursoni1518/Leetcode/tree/master/2825-minimize-string-length) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2892-check-if-array-is-good](https://github.com/Mayursoni1518/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Mayursoni1518/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -915,6 +916,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Mayursoni1518/Leetcode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2825-minimize-string-length](https://github.com/Mayursoni1518/Leetcode/tree/master/2825-minimize-string-length) |
 | [2886-faulty-keyboard](https://github.com/Mayursoni1518/Leetcode/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/Mayursoni1518/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
