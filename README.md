@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0985-bag-of-tokens](https://github.com/Mayursoni1518/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Mayursoni1518/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Mayursoni1518/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Mayursoni1518/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1041-available-captures-for-rook](https://github.com/Mayursoni1518/Leetcode/tree/master/1041-available-captures-for-rook) |
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0958-sort-array-by-parity-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/Mayursoni1518/Leetcode/tree/master/0961-long-pressed-name) |
 | [0985-bag-of-tokens](https://github.com/Mayursoni1518/Leetcode/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Mayursoni1518/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1454-remove-palindromic-subsequences](https://github.com/Mayursoni1518/Leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mayursoni1518/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -513,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0958-sort-array-by-parity-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0985-bag-of-tokens](https://github.com/Mayursoni1518/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/Mayursoni1518/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Mayursoni1518/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1256-rank-transform-of-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mayursoni1518/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
