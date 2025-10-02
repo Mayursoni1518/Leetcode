@@ -2,13 +2,13 @@ class Solution {
 public:
     long long minimumSteps(string s) {
         int n = s.size() ;
-        int left = 0 ;
-        long long ans = 0 ; 
-        for(int right = 0 ; right < n ; right++ ){
-            if(s[right] == '0' ) {
-                swap(s[left], s[right]);
-                ans += (right - left) ;
-                left++ ; 
+        long long  ans = 0 ; 
+        int i = 0 ;
+        for(int j = 0 ; j < n ; j++) {
+            if(s[j] == '0') {
+                swap(s[i] , s[j]) ;
+                ans += (j -i) ;
+                i++ ;
             }
         }
         return ans ;
