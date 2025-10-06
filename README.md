@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0777-toeplitz-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Mayursoni1518/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Mayursoni1518/Leetcode/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Mayursoni1518/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/Mayursoni1518/Leetcode/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/Mayursoni1518/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -695,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0240-search-a-2d-matrix-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Mayursoni1518/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [0898-transpose-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/Mayursoni1518/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Mayursoni1518/Leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1331-path-with-maximum-gold](https://github.com/Mayursoni1518/Leetcode/tree/master/1331-path-with-maximum-gold) |
@@ -713,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [0498-diagonal-traverse](https://github.com/Mayursoni1518/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Mayursoni1518/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Mayursoni1518/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0898-transpose-matrix](https://github.com/Mayursoni1518/Leetcode/tree/master/0898-transpose-matrix) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Mayursoni1518/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1041-available-captures-for-rook](https://github.com/Mayursoni1518/Leetcode/tree/master/1041-available-captures-for-rook) |
 | [1310-watering-plants](https://github.com/Mayursoni1518/Leetcode/tree/master/1310-watering-plants) |
