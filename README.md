@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/Mayursoni1518/Leetcode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3194-find-words-containing-character](https://github.com/Mayursoni1518/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mayursoni1518/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3221-find-the-peaks](https://github.com/Mayursoni1518/Leetcode/tree/master/3221-find-the-peaks) |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2892-check-if-array-is-good](https://github.com/Mayursoni1518/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/Mayursoni1518/Leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Mayursoni1518/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayursoni1518/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mayursoni1518/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Mayursoni1518/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1131,6 +1133,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mayursoni1518/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Mayursoni1518/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Mayursoni1518/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mayursoni1518/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mayursoni1518/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -1153,6 +1156,7 @@ Collection of LeetCode questions to ace the coding interview !
 | [2159-two-out-of-three](https://github.com/Mayursoni1518/Leetcode/tree/master/2159-two-out-of-three) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Mayursoni1518/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Mayursoni1518/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Mayursoni1518/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Counting Sort
@@ -1271,6 +1275,7 @@ Collection of LeetCode questions to ace the coding interview !
 ## Trie
 |  |
 | ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mayursoni1518/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
